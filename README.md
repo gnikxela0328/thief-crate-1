@@ -54,6 +54,9 @@ Any computer can be used with this setup. I chose raspberry PI because of its co
 
 <br />
 
+For SSH acess, make sure to enable ssh-server on your target device
+<br />
+
 # Usage
 <br />
 Power it on like a normal computer and it is ready to go! 
@@ -77,7 +80,7 @@ On local computer (192.168.1.1)
 ```
 sudo nmap 192.168.1.* -O
 ```
-
+Your device will show up identified by its operating system
 
 
 
