@@ -34,4 +34,17 @@ This will allow the user to have the full functionality of a pro CDJ setup at ha
 
 <br />
 
-Granted, some of these parts are not necessary. The interface provides addtional input/output but can be easily replaced with a controller that has a soundcard compatible with Mixxx.
+Some modification considerations:
+
+<br />
+
+The interface provides addtional input/output but can be easily replaced with a controller that has a soundcard compatible with Mixxx. Benefits include having an external volume control so you can more accurately dial in gain on the controller. 
+
+<br />
+
+The MIDI controller is swappable but requires you to configure the control surface in software (fairly easy)
+
+<br /> 
+
+The case is also optional. I built this wooden housing because I wanted a portable solution with a splash shield and a tabletop form factor.
+
