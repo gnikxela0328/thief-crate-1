@@ -83,4 +83,4 @@ sudo nmap 192.168.1.* -O
 Your device will show up identified by its operating system
 
 
-
+<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/20211106_144128.jpg" />
