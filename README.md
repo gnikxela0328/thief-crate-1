@@ -48,3 +48,10 @@ The MIDI controller is swappable but requires you to configure the control surfa
 
 The case is also optional. I built this wooden housing because I wanted a portable solution with a splash shield and a tabletop form factor.
 
+<br /> 
+
+Any computer can be used with this setup. I chose raspberry PI because of its compactness, one should note however, that a PI4 is necessary to run ubuntu.
+
+<br />
+
+
