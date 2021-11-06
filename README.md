@@ -12,7 +12,12 @@ A headless CDJ rig that comes complete with ssh/scp access and a c++ compiler (n
 
 # Why Thief Crate?
 <br />
-Thief Crate allows the user to have the full functionality of a pro CDJ setup at half the cost. The crate utilizes Mixxx, a free and open source dj software that is availble for Linux distributions (as well as other platforms). The controller is swappable, allowing the user to implement any MIDI device of their choice. In addition to sound control, the crate also leverages ubuntu's file system/networking capabilites to allow for wireless file transfer over local net. You can transfer files over most wireless networks (including a portable router or cellphone hotspot).
+Thief Crate allows the user to have the full functionality of a pro CDJ setup at half the cost. 
+<br /><br />
+The crate utilizes Mixxx, a free and open source dj software that is available for Linux distributions (as well as other platforms). The controller is swappable, allowing the user to implement any MIDI device of their choice. In addition to sound control, the crate also leverages ubuntu's file system/networking capabilites to allow for wireless file transfer over local net. You can transfer files over most wireless networks (including a portable router or cellphone hotspot). 
+<br />
+<br />
+File transfer can be performed WITHOUT interrupting the function of the crate for a seamless integration with the cloud.
 <br />
 <br />
 
@@ -27,6 +32,8 @@ Thief Crate allows the user to have the full functionality of a pro CDJ setup at
 <a href="https://www.sweetwater.com/store/detail/DDJSB3--pioneer-dj-ddj-sb3-4-deck-serato-dj-controller"> Controller </a>
 <br />
 <a href="https://www.sweetwater.com/store/detail/ScarSG3--focusrite-scarlett-solo-3rd-gen-usb-audio-interface"> Interface </a>
+<br />
+Other parts (wooden and plastic) manufactured by Thief
 <br />
 <br />
 
@@ -84,3 +91,7 @@ Your device will show up identified by its operating system
 
 
 <img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/20211106_144128.jpg" />
+
+# Routing
+
+<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/Untitled%20Diagram.drawio.png" />
