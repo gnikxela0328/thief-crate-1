@@ -71,6 +71,12 @@ First find the subnet your computer is on
 ```
 ifconfig
 ```
+For example network 192.168.1.0/24 :
+<br />
+On local computer (192.168.1.1)
+```
+sudo nmap 192.168.1.* -O
+```
 
 
 
