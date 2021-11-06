@@ -54,4 +54,14 @@ Any computer can be used with this setup. I chose raspberry PI because of its co
 
 <br />
 
+# Usage
+<br />
+Power it on like a normal computer and it is ready to go! 
+<br />
+If you wish to use the device wirelessly for file transfer (or other things) use nmap.
+
+<br />
+** Make sure you have permission to probe on your network **
+
+
 
