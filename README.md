@@ -16,6 +16,7 @@ Thief Crate allows the user to have the full functionality of a pro CDJ setup at
 <br /><br />
 The crate utilizes Mixxx, a free and open source dj software that is availble for Linux distributions (as well as other platforms). The controller is swappable, allowing the user to implement any MIDI device of their choice. In addition to sound control, the crate also leverages ubuntu's file system/networking capabilites to allow for wireless file transfer over local net. You can transfer files over most wireless networks (including a portable router or cellphone hotspot). 
 <br />
+<br />
 File transfer can be performed WITHOUT interrupting the function of the crate for a seamless integration with the cloud.
 <br />
 <br />
