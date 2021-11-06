@@ -94,4 +94,4 @@ Your device will show up identified by its operating system
 
 # Routing
 
-<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/Untitled%20Diagram.drawio.png" />
+<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/Untitled%20Diagram.drawio.jpg" />
