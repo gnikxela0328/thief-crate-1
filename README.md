@@ -30,6 +30,8 @@ File transfer can be performed WITHOUT interrupting the function of the crate fo
 <br />
 <a href="https://www.sweetwater.com/store/detail/ScarSG3--focusrite-scarlett-solo-3rd-gen-usb-audio-interface"> Interface </a>
 <br />
+Other parts (wooden and plastic) manufactured by Thief
+<br />
 <br />
 
 <img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/20211106_143546.jpg" />
