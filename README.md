@@ -64,10 +64,10 @@ Any computer can be used with this setup. I chose raspberry PI because of its co
 For SSH access, make sure to enable ssh-server on your target device
 ```
 sudo apt update
-sudo apt install openssh-server    # Install
+sudo apt install openssh-server            # Install
 
-sudo systemctl status ssh          # Verify up status
-sudo ufw allow ssh                 # Firewall rule
+sudo systemctl status ssh                  # Verify up status
+sudo ufw allow ssh                         # Firewall rule
 ```
 <br />
 
