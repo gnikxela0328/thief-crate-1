@@ -94,7 +94,7 @@ On local computer (192.168.1.1)
 ```
 sudo nmap 192.168.1.* -O
 ```
-Your device will show up identified by its operating system
+Your device will show up identified by its operating system (This technique is best for OS without GUI)
 
 
 <img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/20211106_144040.jpg" />
