@@ -61,7 +61,7 @@ Any computer can be used with this setup. I chose raspberry PI because of its co
 
 <br />
 
-For SSH acess, make sure to enable ssh-server on your target device
+For SSH access, make sure to enable ssh-server on your target device
 <br />
 
 # Usage
