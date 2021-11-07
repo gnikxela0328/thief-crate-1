@@ -76,7 +76,7 @@ sudo ufw allow ssh                         # Firewall rule
 Power it on like a normal computer and it is ready to go! 
 <br />
 <br />
-If you wish to use the device wirelessly for file transfer (or other things) use nmap.
+If you wish to use the device wirelessly for file transfer (or other things), and want to know its address, use nmap.
 
 <br />
 ** Make sure you have permission to probe on your network 
