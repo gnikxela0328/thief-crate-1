@@ -19,6 +19,7 @@ The crate utilizes Mixxx, a free and open source dj software that is available f
 <br />
 File transfer can be performed WITHOUT interrupting the function of the crate for a seamless integration with the cloud.
 <br />
+<br />
 <img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/scp%20to%20pi%202.jpg" />
 <br />
 <br />
