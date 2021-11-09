@@ -61,7 +61,14 @@ Any computer can be used with this setup. I chose raspberry PI because of its co
 
 <br />
 
-For SSH acess, make sure to enable ssh-server on your target device
+For SSH access, make sure to enable ssh-server on your target device
+```
+sudo apt update
+sudo apt install openssh-server            # Install
+
+sudo systemctl status ssh                  # Verify up status
+sudo ufw allow ssh                         # Firewall rule
+```
 <br />
 
 # Usage
@@ -69,7 +76,7 @@ For SSH acess, make sure to enable ssh-server on your target device
 Power it on like a normal computer and it is ready to go! 
 <br />
 <br />
-If you wish to use the device wirelessly for file transfer (or other things) use nmap.
+If you wish to use the device wirelessly for file transfer (or other things), and want to know its address, use nmap.
 
 <br />
 ** Make sure you have permission to probe on your network 
@@ -87,11 +94,11 @@ On local computer (192.168.1.1)
 ```
 sudo nmap 192.168.1.* -O
 ```
-Your device will show up identified by its operating system
+Your device will show up identified by its operating system (This technique is best for OS without GUI)
 
 
-<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/20211106_144128.jpg" />
+<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/20211106_144040.jpg" />
 
 # Routing
 
-<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/Untitled%20Diagram.drawio.png" />
+<img src="https://github.com/gnikxela0328/thief-crate-1/blob/main/img/Untitled%20Diagram.drawio.jpg" />
